@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(to bottom, #8A49FF, #34044E);
+}
+
+header {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.test {
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    width: 600px;
+    height: 680px;
+    color: white;
+    background-image: linear-gradient(purple, white);
+}
+
+.user-data {
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.user-data p {
+    margin: 0;
+}
+
+.user-data p {
+    margin: 0;
+}
+
+.bank-data {
+    color: red;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.bank-data p {
+    margin: 0;
+}
